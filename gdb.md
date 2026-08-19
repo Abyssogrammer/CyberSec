@@ -51,3 +51,7 @@ b = byte       1 byte
 h = halfword   2 bytes
 w = word       4 bytes
 g = giant word 8 bytes
+
+## Notes
+
+Endians matter bro
